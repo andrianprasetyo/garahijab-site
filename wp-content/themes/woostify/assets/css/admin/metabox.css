@@ -1,0 +1,49 @@
+.gutenberg-version [id^="woostify_metabox_settings_"].closed .hndle:hover {
+  background-color: #f8f9f9;
+}
+
+.gutenberg-version [id^="woostify_metabox_settings_"] .handlediv {
+  position: relative;
+  z-index: 99;
+}
+
+.gutenberg-version [id^="woostify_metabox_settings_"] .hndle {
+  cursor: pointer;
+  color: #191e23 !important;
+  border-bottom: 0 !important;
+  transition: 0.1s background ease-in-out;
+}
+
+[id^="woostify_metabox_settings_"] .inside {
+  margin: 0 !important;
+  padding: 0 !important;
+  border-bottom: 0 !important;
+}
+
+/* metabox option */
+.woostify-metabox-option {
+  border-bottom: 1px solid #eee;
+  padding: 15px;
+}
+
+body.old-version .woostify-metabox-option {
+  padding: 12px;
+}
+
+.woostify-metabox-option select {
+  width: 100%;
+}
+
+.woostify-metabox-option:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.woostify-metabox-option:last-of-type {
+  border-bottom: 0;
+}
+
+.woostify-metabox-option-title {
+  margin-bottom: 4px;
+}

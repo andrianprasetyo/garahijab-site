@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEE,qBAFmB,AACnB,iBAAiB,AAChB,QAAQ,CAAC;EACT,OAAO,EAAE,YAAY;EACrB,OAAO,EAAE,OAAO;EAChB,IAAI,EAAE,yBAAyB;EAC/B,MAAM,EAAE,YAAY;EACpB,cAAc,EAAE,MAAM;EACtB,iBAAiB,EAAE,2BAA2B;EAC9C,SAAS,EAAE,2BAA2B;CACtC",
+    "sources": [
+        "plugin-install.scss"
+    ],
+    "names": [],
+    "file": "plugin-install.css"
+}
